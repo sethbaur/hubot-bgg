@@ -1,3 +1,5 @@
 # Hubot BGG
 
-hubot boardgame <query> - search for a board game by name
+##Usage:
+
+`hubot boardgame <query>`
